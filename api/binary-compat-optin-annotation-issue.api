@@ -1,0 +1,10 @@
+public final class co/zsmb/example/MainKt {
+	public static final fun getInternalVar ()I
+	public static final fun main ()V
+	public static synthetic fun main ([Ljava/lang/String;)V
+	public static final fun setInternalVar (I)V
+}
+
+public abstract interface annotation class co/zsmb/example/MyInternalApi : java/lang/annotation/Annotation {
+}
+
